@@ -1,6 +1,6 @@
 def register(str):
     """
-    Приводит к верхнему регистру
+    Приводит к верхнему регистр
     """
     summary_line = str.upper()
     return summary_line
